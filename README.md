@@ -1,16 +1,18 @@
-## Hi there 👋
+--quiet <br>
 
-<!--
-**XisParis/XisParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+ <p align="center">
+     Bem Vindo(a)! </i>
+ </p>
+</h1>
 
-Here are some ideas to get you started:
+  <img alt="Dark Eyes" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-511.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/XisParis?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-Projetos-060606?style=flat&labelColor=0D0D0D&logo=github&color=white" alt="Repositórios" />
+  </a>
+
+<p align="center" style="font-family: monospace;">
+  <code>⚙️ python | | unique codes | open source</code><br>
+</p>
